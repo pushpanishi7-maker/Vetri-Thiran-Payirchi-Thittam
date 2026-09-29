@@ -1,0 +1,1 @@
+# Empty init file to treat legalEaseAPI as a Python package

@@ -1,0 +1,1 @@
+# Empty init file to treat frontend as a Python package
